@@ -2,18 +2,18 @@ about:
   description: "A coding agent for open models like Kimi K3 and GLM 5.3"
   license: Apache-2.0
   homepage: http://openinterpreter.com/
-  head: fb31b85
+  head: f6722c8
   archived: false
   latestVersion: "rust-v0.0.41"
-  collectedAt: 2026-09-07T05:24:30Z
+  collectedAt: 2026-09-07T19:12:31Z
 timeline:
   created: 2023-07-14
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 68260
+  star: 68265
   watcher: 471
-  fork: 5884
+  fork: 5885
   release: 66
   contributor: 613
   pullRequest: 729
@@ -87,14 +87,14 @@ recent:
     commit: 0
 total:
   release: 66
-  mergedPR: 442
-  openPR: 2
+  mergedPR: 443
+  openPR: 1
   closedIssue: 1104
   openIssue: 0
-  commit: 10469
+  commit: 10470
 ---
 path: /home/runner/.x-repo/github.com/KillianLucas/open-interpreter
-collectedAt: 2026-09-07T05:25:09Z
+collectedAt: 2026-09-07T19:13:15Z
 loc:
   Rust:
     code: 1461349
@@ -218,24 +218,24 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 17159
-    blanks: 6402
-    files: 271
+    comments: 17266
+    blanks: 6441
+    files: 272
   Text:
     code: 0
     comments: 6613
     blanks: 702
     files: 448
 total:
-  code: 1809033
-  comments: 64675
-  blanks: 143276
-  files: 5969
+  code: 1809035
+  comments: 64782
+  blanks: 143315
+  files: 5970
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:25:11+00:00
+  collectedAt: 2026-09-07T19:13:26+00:00
   platform:
     darwin/arm64:
       name:  open-interpreter-package-aarch64-apple-darwin.tar.gz
