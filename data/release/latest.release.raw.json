@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1464,
       "digest": "sha256:b48b78198aa987619f92703596243f4f4df1ac55867e2abd2bc1b07467b0272b",
-      "download_count": 8,
+      "download_count": 37,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:50:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/codex-package_SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 37780,
       "digest": "sha256:8c55d3836a41a4085937af90a9d65f64229e0c47b0397da94def4810d88caa35",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:50:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/install.ps1"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28767,
       "digest": "sha256:2df36b54a1f4e627a0620f4c99e9c521d131f0df115011709896e55b2aa3f5bc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:50:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/install.sh"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 221194902,
       "digest": "sha256:ae4c00ed33e2923d81b09aebadf2aa2bffac5283931d79ba98e63a2cae71c7c7",
-      "download_count": 0,
+      "download_count": 5,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:06Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-aarch64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 164195892,
       "digest": "sha256:e3c1abd7501c1b0da2b535dbcca667c0b0417e4d1282c3a29ab77f1b73b154e9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 237092758,
       "digest": "sha256:5d8ba993a4530fa60a322f1a379a9ef16844749bc184685c38d84d04ddf779ed",
-      "download_count": 7,
+      "download_count": 25,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:07Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-pc-windows-msvc.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 176547032,
       "digest": "sha256:0cd19620c6c1f61916c3c290060195adc96a9fc4db3505d8497b5f35dcb90ab6",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 226561345,
       "digest": "sha256:a3b5eba008ffddd22617322c31efb7036e89c7d38b7472b060548ecf6e92b4e2",
-      "download_count": 4,
+      "download_count": 15,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:06Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz"
@@ -579,5 +579,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/openinterpreter/openinterpreter/tarball/rust-v0.0.42",
   "zipball_url": "https://api.github.com/repos/openinterpreter/openinterpreter/zipball/rust-v0.0.42",
-  "body": "# Open Interpreter 0.0.42\n\nOpen Interpreter 0.0.42 improves provider and transport discoverability,\nkeeps the command-line experience consistently branded, and adds a reusable\ndiagnostic harness for Ollama-backed Qwen tool-use checks. It is based on the\nstable upstream Codex `rust-v0.153.4` compatibility baseline.\n\n## Models\n\n- **Inherited upstream presets:** `gpt-6-astra`, `gpt-5.6-sol`,\n  `gpt-5.6-terra`, and `gpt-5.6-luna`. These exact IDs and their metadata are\n  inherited from upstream Codex; Open Interpreter does not add aliases for\n  them, and availability still depends on the selected provider and account.\n- **Google AI Studio IDs:** `gemini-3.8-flash`, `gemini-3.7-flash`,\n  `gemini-3.6-flash`, `gemini-3.5-flash`, `gemini-3.5-flash-lite`, and\n  `gemini-3.1-flash-lite`. These are provider-documented IDs surfaced in the\n  [model guide](docs/models.md), not Open Interpreter-owned model aliases.\n- **Anthropic IDs:** `claude-fable-5-1`, `claude-opus-5`, `claude-sonnet-5`, and `claude-haiku-4-5-20251001`. These are current active provider-documented IDs surfaced in the model guide.\n- **Z.AI IDs:** `glm-5.1`, `glm-5`, `glm-5-turbo`, and the free/lightweight `glm-4.7-flash`. These are the provider-documented\n  starting IDs; use the exact ID returned by the selected Z.AI service or plan.\n  Generic Z.AI uses Chat Completions, while the separate ZCode setup uses its\n  compatible Messages endpoint.\n- Open Interpreter's OIX-specific work here is provider/catalog, transport,\n  harness, and product integration. The list above is not a promise that every\n  provider, region, account, wire API, or harness accepts every ID. Use `/model`\n  and the active provider's model list as the final authority.\n\n## CLI and branding\n\n- Chat Completions is easier to find and select through root help, `exec` help,\n  provider guidance, and generated Bash, Zsh, Fish, and PowerShell completions.\n- User-facing help, version, errors, cloud guidance, and diagnostics identify\n  Open Interpreter consistently. Compatibility names remain only where they\n  describe an upstream protocol, crate, model, or configuration alias.\n- `exec` configuration help explains user configuration loading more clearly.\n\n## Local model diagnostics\n\n- `scripts/ollama_qwen_smoke.py` provides a reusable, generic Ollama diagnostic\n  harness for Qwen tool-use checks. It bounds captured output, cleans up timed\n  out process groups, records tool-call signals, and verifies requested file\n  side effects separately from an assistant's final message.\n- Its deterministic Python tests are cheap enough for routine checks. Live\n  Ollama inference is intentionally opt-in for a relevant model report,\n  transport/tool-use change, or fix validation, and may require generous\n  timeouts for slow local inference.\n"
+  "body": "# Open Interpreter 0.0.42\n\nOpen Interpreter 0.0.42 improves provider and transport discoverability,\nkeeps the command-line experience consistently branded, and adds a reusable\ndiagnostic harness for Ollama-backed Qwen tool-use checks. It is based on the\nstable upstream Codex `rust-v0.153.4` compatibility baseline.\n\n## Models\n\n- **Inherited upstream presets:** `gpt-6-astra`, `gpt-5.6-sol`,\n  `gpt-5.6-terra`, and `gpt-5.6-luna`. These exact IDs and their metadata are\n  inherited from upstream Codex; Open Interpreter does not add aliases for\n  them, and availability still depends on the selected provider and account.\n- **Google AI Studio IDs:** `gemini-3.8-flash`, `gemini-3.7-flash`,\n  `gemini-3.6-flash`, `gemini-3.5-flash`, `gemini-3.5-flash-lite`, and\n  `gemini-3.1-flash-lite`. These are provider-documented IDs surfaced in the\n  [model guide](docs/models.md), not Open Interpreter-owned model aliases.\n- **Anthropic IDs:** `claude-fable-5-1`, `claude-opus-5`, `claude-sonnet-5`, and `claude-haiku-4-5-20251001`. These are current active provider-documented IDs surfaced in the model guide.\n- **Z.AI IDs:** `glm-5.1`, `glm-5`, `glm-5-turbo`, and the free/lightweight `glm-4.7-flash`. These are the provider-documented\n  starting IDs; use the exact ID returned by the selected Z.AI service or plan.\n  Generic Z.AI uses Chat Completions, while the separate ZCode setup uses its\n  compatible Messages endpoint.\n- Open Interpreter's OIX-specific work here is provider/catalog, transport,\n  harness, and product integration. The list above is not a promise that every\n  provider, region, account, wire API, or harness accepts every ID. Use `/model`\n  and the active provider's model list as the final authority.\n\n## CLI and branding\n\n- Chat Completions is easier to find and select through root help, `exec` help,\n  provider guidance, and generated Bash, Zsh, Fish, and PowerShell completions.\n- User-facing help, version, errors, cloud guidance, and diagnostics identify\n  Open Interpreter consistently. Compatibility names remain only where they\n  describe an upstream protocol, crate, model, or configuration alias.\n- `exec` configuration help explains user configuration loading more clearly.\n\n## Local model diagnostics\n\n- `scripts/ollama_qwen_smoke.py` provides a reusable, generic Ollama diagnostic\n  harness for Qwen tool-use checks. It bounds captured output, cleans up timed\n  out process groups, records tool-call signals, and verifies requested file\n  side effects separately from an assistant's final message.\n- Its deterministic Python tests are cheap enough for routine checks. Live\n  Ollama inference is intentionally opt-in for a relevant model report,\n  transport/tool-use change, or fix validation, and may require generous\n  timeouts for slow local inference.\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/openinterpreter/openinterpreter/releases/384397946/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
