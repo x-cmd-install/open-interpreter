@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1464,
       "digest": "sha256:b48b78198aa987619f92703596243f4f4df1ac55867e2abd2bc1b07467b0272b",
-      "download_count": 418,
+      "download_count": 653,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:50:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/codex-package_SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 37780,
       "digest": "sha256:8c55d3836a41a4085937af90a9d65f64229e0c47b0397da94def4810d88caa35",
-      "download_count": 15,
+      "download_count": 25,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:50:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/install.ps1"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28767,
       "digest": "sha256:2df36b54a1f4e627a0620f4c99e9c521d131f0df115011709896e55b2aa3f5bc",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:50:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/install.sh"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 221194902,
       "digest": "sha256:ae4c00ed33e2923d81b09aebadf2aa2bffac5283931d79ba98e63a2cae71c7c7",
-      "download_count": 44,
+      "download_count": 76,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:06Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 220290597,
       "digest": "sha256:b990318d7c45b5807b53b00e9e82d07f389e9fecae72f14e4b691fc53c270b45",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:05Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-aarch64-pc-windows-msvc.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 164195892,
       "digest": "sha256:e3c1abd7501c1b0da2b535dbcca667c0b0417e4d1282c3a29ab77f1b73b154e9",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 210637381,
       "digest": "sha256:8d2e08d7ed1837c0245b558bed4f9f520e052b7de1d59f133553489dab00ef2e",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:05Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-aarch64-unknown-linux-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 232991732,
       "digest": "sha256:8d12c1d00c6392fa7d4fa39bedaa371a5cb45443ff87179af0612ff669076150",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:06Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-apple-darwin.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 237092758,
       "digest": "sha256:5d8ba993a4530fa60a322f1a379a9ef16844749bc184685c38d84d04ddf779ed",
-      "download_count": 290,
+      "download_count": 466,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:07Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-pc-windows-msvc.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 176547032,
       "digest": "sha256:0cd19620c6c1f61916c3c290060195adc96a9fc4db3505d8497b5f35dcb90ab6",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 226561345,
       "digest": "sha256:a3b5eba008ffddd22617322c31efb7036e89c7d38b7472b060548ecf6e92b4e2",
-      "download_count": 122,
+      "download_count": 177,
       "created_at": "2026-09-08T01:50:54Z",
       "updated_at": "2026-09-08T01:51:06Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz"
