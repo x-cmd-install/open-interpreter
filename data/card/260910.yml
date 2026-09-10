@@ -7,7 +7,7 @@ about:
   latestVersion: "rust-v0.0.42"
   latestRelease: "rust-v0.0.42"
   latestPrerelease: "v0.4.2"
-  collectedAt: 2026-09-10T05:43:56Z
+  collectedAt: 2026-09-10T20:35:40Z
 timeline:
   created: 2023-07-14
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2024-10-24
 popularity:
-  star: 68280
+  star: 68293
   watcher: 471
-  fork: 5884
+  fork: 5882
   release: 67
   contributor: 613
-  pullRequest: 730
+  pullRequest: 731
   issue: 1105
 language:
   Rust: 57893427
@@ -92,13 +92,13 @@ recent:
 total:
   release: 67
   mergedPR: 445
-  openPR: 0
+  openPR: 1
   closedIssue: 1104
   openIssue: 1
   commit: 10479
 ---
 path: /home/runner/.x-repo/github.com/KillianLucas/open-interpreter
-collectedAt: 2026-09-10T05:45:47Z
+collectedAt: 2026-09-10T20:36:15Z
 loc:
   Rust:
     code: 1461469
