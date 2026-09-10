@@ -12,7 +12,7 @@ A coding agent for open models like Kimi K3 and GLM 5.3
 x install open-interpreter
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **1,805,293** 行代码（覆盖前 5 种语言、共 **5093** 个文件）。
 
@@ -38,7 +38,7 @@ x install open-interpreter
 
 ## 流行度
 
-- **Star**: 68,293 · **Fork**: 5,882 · **开放 issue**: 1,105 · **贡献者**: 613
+- **Star**: 68,294 · **Fork**: 5,882 · **开放 issue**: 1,105 · **贡献者**: 613
 
 ## 累计统计
 
@@ -92,4 +92,4 @@ open-interpreter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:36:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:14:10Z._
