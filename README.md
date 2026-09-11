@@ -38,7 +38,7 @@ Total: **1,805,293** lines of code across **5093** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,295 · **Forks**: 5,881 · **Open issues**: 1,107 · **Contributors**: 613
+- **Stars**: 68,296 · **Forks**: 5,884 · **Open issues**: 1,107 · **Contributors**: 613
 
 ## Totals (cumulative)
 
@@ -92,4 +92,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:44:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:11:55Z._
