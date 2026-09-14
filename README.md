@@ -14,15 +14,15 @@ x install open-interpreter
 
 ## Code insight
 
-Total: **1,805,293** lines of code across **5093** files in the top 5 languages.
+Total: **1,874,958** lines of code across **5383** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,461,469 | 11,655 | 120,893 | 3662 |
-| Json | 270,191 | 0 | 0 | 369 |
-| Python | 42,551 | 313 | 6,794 | 148 |
-| Toml | 5,721 | 275 | 722 | 169 |
-| TypeScript | 5,621 | 3,724 | 1,833 | 745 |
+| Rust | 1,525,486 | 12,484 | 123,795 | 3924 |
+| Json | 271,926 | 0 | 0 | 370 |
+| Python | 46,228 | 340 | 7,027 | 167 |
+| Toml | 5,878 | 280 | 746 | 172 |
+| TypeScript | 5,651 | 3,774 | 1,843 | 750 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,805,293** lines of code across **5093** files in the top 5 languages.
 ## Release
 
 - **Latest**: `rust-v0.0.42` (2026-09-08)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-14
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 68,309 · **Forks**: 5,886 · **Open issues**: 1,107 · **Contributors**: 613
+- **Stars**: 68,315 · **Forks**: 5,885 · **Open issues**: 1,107 · **Contributors**: 624
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 445 · **Open PRs**: 1 · **Closed issues**: 1105 · **Open issues**: 2 · **Commits**: 10479
+- **Releases**: 67 · **Merged PRs**: 452 · **Open PRs**: 0 · **Closed issues**: 1107 · **Open issues**: 0 · **Commits**: 10750
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -75,14 +75,6 @@ Total: **1,805,293** lines of code across **5093** files in the top 5 languages.
 | [open-interpreter-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz) | 216.1 MiB | `native/linux/x64/musl` |
 | [open-interpreter-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-unknown-linux-musl.tar.zst) | 157.1 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/open-interpreter). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.0.40` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for open-interpreter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `open-interpreter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +84,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:40:10Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:54:11Z._

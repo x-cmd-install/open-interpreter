@@ -14,15 +14,15 @@ x install open-interpreter
 
 ## 代码洞察
 
-合计: **1,805,293** 行代码（覆盖前 5 种语言、共 **5093** 个文件）。
+合计: **1,874,958** 行代码（覆盖前 5 种语言、共 **5383** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,461,469 | 11,655 | 120,893 | 3662 |
-| Json | 270,191 | 0 | 0 | 369 |
-| Python | 42,551 | 313 | 6,794 | 148 |
-| Toml | 5,721 | 275 | 722 | 169 |
-| TypeScript | 5,621 | 3,724 | 1,833 | 745 |
+| Rust | 1,525,486 | 12,484 | 123,795 | 3924 |
+| Json | 271,926 | 0 | 0 | 370 |
+| Python | 46,228 | 340 | 7,027 | 167 |
+| Toml | 5,878 | 280 | 746 | 172 |
+| TypeScript | 5,651 | 3,774 | 1,843 | 750 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install open-interpreter
 ## 发布
 
 - **最新版本**: `rust-v0.0.42` (2026-09-08)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 68,309 · **Fork**: 5,886 · **开放 issue**: 1,107 · **贡献者**: 613
+- **Star**: 68,315 · **Fork**: 5,885 · **开放 issue**: 1,107 · **贡献者**: 624
 
 ## 累计统计
 
-- **发布数**: 67 · **已合并 PR**: 445 · **开放 PR**: 1 · **已关闭 issue**: 1105 · **开放 issue**: 2 · **提交数**: 10479
+- **发布数**: 67 · **已合并 PR**: 452 · **开放 PR**: 0 · **已关闭 issue**: 1107 · **开放 issue**: 0 · **提交数**: 10750
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 19 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -75,14 +75,6 @@ x install open-interpreter
 | [open-interpreter-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz) | 216.1 MiB | `native/linux/x64/musl` |
 | [open-interpreter-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.42/open-interpreter-package-x86_64-unknown-linux-musl.tar.zst) | 157.1 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/open-interpreter) 上共有 **7** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.0.40` | ⚠️ outdated |
-
 ## 改进这些数据
 
 open-interpreter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `open-interpreter` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +84,4 @@ open-interpreter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:40:10Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:54:12Z._
