@@ -4,7 +4,7 @@
 
 A coding agent for open models like Kimi K3 and GLM 5.3
 
-[![x-cmd/install — open-interpreter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-interpreter.svg?lang=zh)](https://x-cmd.com/install/open-interpreter)
+[![x-cmd/install — open-interpreter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-interpreter.svg?lang=zh)](https://x-cmd.com/install/open-interpreter)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install open-interpreter
 
 ## 流行度
 
-- **Star**: 68,400 · **Fork**: 5,884 · **开放 issue**: 1,109 · **贡献者**: 625
+- **Star**: 68,410 · **Fork**: 5,882 · **开放 issue**: 1,109 · **贡献者**: 625
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install open-interpreter
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 26 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 26 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -221,4 +221,4 @@ open-interpreter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:01:20Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:52:42Z._
