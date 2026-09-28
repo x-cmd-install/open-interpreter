@@ -14,12 +14,12 @@ x install open-interpreter
 
 ## Code insight
 
-Total: **1,875,142** lines of code across **5383** files in the top 5 languages.
+Total: **1,875,439** lines of code across **5383** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 1,525,588 | 12,487 | 123,800 | 3924 |
-| Json | 272,008 | 0 | 0 | 370 |
+| Json | 272,010 | 0 | 0 | 370 |
 | Python | 46,228 | 340 | 7,027 | 167 |
 | Toml | 5,878 | 280 | 746 | 172 |
 | TypeScript | 5,651 | 3,774 | 1,843 | 750 |
@@ -38,22 +38,22 @@ Total: **1,875,142** lines of code across **5383** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,451 · **Forks**: 5,880 · **Open issues**: 1,110 · **Contributors**: 625
+- **Stars**: 68,459 · **Forks**: 5,881 · **Open issues**: 1,111 · **Contributors**: 625
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 457 · **Open PRs**: 3 · **Closed issues**: 1109 · **Open issues**: 1 · **Commits**: 10756
+- **Releases**: 70 · **Merged PRs**: 459 · **Open PRs**: 3 · **Closed issues**: 1109 · **Open issues**: 2 · **Commits**: 10758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-07 | 26 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-01 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-03 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-08 | 26 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -221,4 +221,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:02:57Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:10:05Z._
