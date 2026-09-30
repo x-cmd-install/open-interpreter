@@ -38,22 +38,22 @@ Total: **1,875,439** lines of code across **5383** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,468 · **Forks**: 5,884 · **Open issues**: 1,113 · **Contributors**: 625
+- **Stars**: 68,479 · **Forks**: 5,886 · **Open issues**: 1,115 · **Contributors**: 625
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 459 · **Open PRs**: 3 · **Closed issues**: 1109 · **Open issues**: 4 · **Commits**: 10758
+- **Releases**: 70 · **Merged PRs**: 459 · **Open PRs**: 3 · **Closed issues**: 1110 · **Open issues**: 5 · **Commits**: 10758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-09 | 26 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-31 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-10 | 26 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -221,4 +221,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:33:18Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:24:04Z._
