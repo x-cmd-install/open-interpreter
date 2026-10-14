@@ -38,7 +38,7 @@ Total: **2,102,958** lines of code across **6307** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,563 · **Forks**: 5,895 · **Open issues**: 1,117 · **Contributors**: 625
+- **Stars**: 68,574 · **Forks**: 5,898 · **Open issues**: 1,117 · **Contributors**: 625
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,102,958** lines of code across **6307** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 25 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-18 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-23 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-14 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-17 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-19 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-24 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -233,4 +233,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:45:46Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:38:06Z._
