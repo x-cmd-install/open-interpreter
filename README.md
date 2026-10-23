@@ -38,7 +38,7 @@ Total: **2,102,958** lines of code across **6307** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,632 · **Forks**: 5,910 · **Open issues**: 1,122 · **Contributors**: 625
+- **Stars**: 68,638 · **Forks**: 5,907 · **Open issues**: 1,122 · **Contributors**: 625
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,102,958** lines of code across **6307** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 25 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -224,6 +224,14 @@ Total: **2,102,958** lines of code across **6307** files in the top 5 languages.
 | [openai_codex_cli_bin-0.0.56-py3-none-win_amd64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.56/openai_codex_cli_bin-0.0.56-py3-none-win_amd64.whl) | 142.7 MiB | `other` |
 | [openai_codex_cli_bin-0.0.56-py3-none-win_arm64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.56/openai_codex_cli_bin-0.0.56-py3-none-win_arm64.whl) | 131.9 MiB | `other` |
 
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/open-interpreter). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.0.40` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for open-interpreter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `open-interpreter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -233,4 +241,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:22:33Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:28:19Z._
