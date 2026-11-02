@@ -1,30 +1,7 @@
-- repo: nix_stable_26_05
-  srcname: open-interpreter
-  visiblename: open-interpreter
-  version: 0.4.2
-  origversion: null
-  status: newest
-  summary: OpenAI's Code Interpreter in your terminal, running locally
-  maintainers:
-    - raphael@megzari.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: open-interpreter
-  visiblename: open-interpreter
-  version: 0.0.40
-  origversion: null
-  status: outdated
-  summary: The open-source terminal agent built for low-cost models
-  maintainers:
-    - twohexed@gmail.com
-    - raphael@megzari.com
-  licenses:
-    - Apache-2.0
 - repo: chocolatey
   binname: open-interpreter
   visiblename: Open Interpreter
-  version: 0.0.56
+  version: 0.0.58
   origversion: null
   status: outdated
   summary: A coding agent for open models like Kimi K3
@@ -72,3 +49,26 @@
     - raphael@megzari.com
   licenses:
     - MIT
+- repo: nix_stable_26_05
+  srcname: open-interpreter
+  visiblename: open-interpreter
+  version: 0.4.2
+  origversion: null
+  status: newest
+  summary: OpenAI's Code Interpreter in your terminal, running locally
+  maintainers:
+    - raphael@megzari.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: open-interpreter
+  visiblename: open-interpreter
+  version: 0.0.40
+  origversion: null
+  status: outdated
+  summary: The open-source terminal agent built for low-cost models
+  maintainers:
+    - twohexed@gmail.com
+    - raphael@megzari.com
+  licenses:
+    - Apache-2.0
