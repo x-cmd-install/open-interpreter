@@ -14,15 +14,15 @@ x install open-interpreter
 
 ## Code insight
 
-Total: **2,104,541** lines of code across **6308** files in the top 5 languages.
+Total: **2,110,854** lines of code across **6327** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,748,189 | 15,335 | 133,042 | 4814 |
-| Json | 273,525 | 0 | 0 | 376 |
-| Python | 50,431 | 352 | 7,544 | 176 |
-| Toml | 6,143 | 282 | 775 | 177 |
-| TypeScript | 5,719 | 3,890 | 1,873 | 765 |
+| Rust | 1,753,554 | 15,413 | 133,322 | 4816 |
+| Json | 274,118 | 0 | 0 | 376 |
+| Python | 50,713 | 352 | 7,622 | 176 |
+| Toml | 6,144 | 282 | 775 | 177 |
+| TypeScript | 5,757 | 3,933 | 1,907 | 782 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **2,104,541** lines of code across **6308** files in the top 5 languages.
 ## Release
 
 - **Latest**: `rust-v0.0.59` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-07
 - **Assets in release**: 164
 
 ## Popularity
 
-- **Stars**: 68,822 · **Forks**: 5,936 · **Open issues**: 1,128 · **Contributors**: 625
+- **Stars**: 68,833 · **Forks**: 5,939 · **Open issues**: 1,128 · **Contributors**: 625
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 472 · **Open PRs**: 14 · **Closed issues**: 1108 · **Open issues**: 20 · **Commits**: 10774
+- **Releases**: 76 · **Merged PRs**: 473 · **Open PRs**: 15 · **Closed issues**: 1108 · **Open issues**: 20 · **Commits**: 10775
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 28 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-12 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-17 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-09 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-13 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-18 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:49:40Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:46:38Z._
