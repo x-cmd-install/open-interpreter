@@ -14,15 +14,15 @@ x install open-interpreter
 
 ## 代码洞察
 
-合计: **2,110,854** 行代码（覆盖前 5 种语言、共 **6327** 个文件）。
+合计: **2,113,705** 行代码（覆盖前 5 种语言、共 **6331** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,753,554 | 15,413 | 133,322 | 4816 |
-| Json | 274,118 | 0 | 0 | 376 |
-| Python | 50,713 | 352 | 7,622 | 176 |
+| Rust | 1,755,527 | 15,430 | 133,404 | 4816 |
+| Json | 274,823 | 0 | 0 | 376 |
+| Python | 50,750 | 352 | 7,626 | 176 |
 | Toml | 6,144 | 282 | 775 | 177 |
-| TypeScript | 5,757 | 3,933 | 1,907 | 782 |
+| TypeScript | 5,773 | 3,966 | 1,915 | 786 |
 
 ## 源代码
 
@@ -32,197 +32,197 @@ x install open-interpreter
 
 ## 发布
 
-- **最新版本**: `rust-v0.0.59` (2026-11-04)
-- **最近提交**: 2026-11-07
+- **最新版本**: `rust-v0.0.60` (2026-11-09)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 164 个
 
 ## 流行度
 
-- **Star**: 68,833 · **Fork**: 5,939 · **开放 issue**: 1,128 · **贡献者**: 625
+- **Star**: 68,842 · **Fork**: 5,941 · **开放 issue**: 1,129 · **贡献者**: 625
 
 ## 累计统计
 
-- **发布数**: 76 · **已合并 PR**: 473 · **开放 PR**: 15 · **已关闭 issue**: 1108 · **开放 issue**: 20 · **提交数**: 10775
+- **发布数**: 77 · **已合并 PR**: 475 · **开放 PR**: 16 · **已关闭 issue**: 1108 · **开放 issue**: 21 · **提交数**: 10777
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 28 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-10 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-13 | 29 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-14 | 29 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-19 | 29 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [bwrap-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/bwrap-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [bwrap-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/bwrap-aarch64-unknown-linux-musl.tar.gz) | 249.0 KiB | `native/linux/arm64/musl` |
-| [bwrap-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/bwrap-aarch64-unknown-linux-musl.zst) | 225.8 KiB | `native/linux/arm64/musl` |
-| [bwrap-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/bwrap-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [bwrap-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/bwrap-x86_64-unknown-linux-musl.tar.gz) | 255.4 KiB | `native/linux/x64/musl` |
-| [bwrap-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/bwrap-x86_64-unknown-linux-musl.zst) | 232.1 KiB | `native/linux/x64/musl` |
-| [codex-aarch64-apple-darwin.dmg](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-apple-darwin.dmg) | 163.8 MiB | `native/darwin/arm64` |
-| [codex-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-apple-darwin.tar.gz) | 93.8 MiB | `native/darwin/arm64` |
-| [codex-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-apple-darwin.zst) | 67.0 MiB | `native/darwin/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-pc-windows-msvc.exe) | 270.8 MiB | `native/win/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-pc-windows-msvc.exe.tar.gz) | 97.3 MiB | `native/win/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-pc-windows-msvc.exe.zip) | 142.5 MiB | `native/win/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-pc-windows-msvc.exe.zst) | 72.0 MiB | `native/win/arm64` |
-| [codex-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [codex-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-unknown-linux-musl.tar.gz) | 98.8 MiB | `native/linux/arm64/musl` |
-| [codex-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-aarch64-unknown-linux-musl.zst) | 71.2 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-apple-darwin.tar.gz) | 71.7 MiB | `native/darwin/arm64` |
-| [codex-app-server-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-apple-darwin.zst) | 50.6 MiB | `native/darwin/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-pc-windows-msvc.exe) | 206.6 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz) | 74.4 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-pc-windows-msvc.exe.zip) | 72.4 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-pc-windows-msvc.exe.zst) | 54.5 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [codex-app-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-unknown-linux-musl.tar.gz) | 76.0 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-aarch64-unknown-linux-musl.zst) | 54.2 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-package-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-aarch64-apple-darwin.tar.gz) | 95.2 MiB | `native/darwin/arm64` |
-| [codex-app-server-package-aarch64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-aarch64-apple-darwin.tar.zst) | 68.2 MiB | `native/darwin/arm64` |
-| [codex-app-server-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-aarch64-pc-windows-msvc.tar.gz) | 108.8 MiB | `native/win/arm64` |
-| [codex-app-server-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-aarch64-pc-windows-msvc.tar.zst) | 80.8 MiB | `native/win/arm64` |
-| [codex-app-server-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-aarch64-unknown-linux-musl.tar.gz) | 102.0 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-aarch64-unknown-linux-musl.tar.zst) | 74.2 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-package-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-x86_64-apple-darwin.tar.gz) | 101.2 MiB | `native/darwin/x64` |
-| [codex-app-server-package-x86_64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-x86_64-apple-darwin.tar.zst) | 72.6 MiB | `native/darwin/x64` |
-| [codex-app-server-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-x86_64-pc-windows-msvc.tar.gz) | 117.6 MiB | `native/win/x64` |
-| [codex-app-server-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-x86_64-pc-windows-msvc.tar.zst) | 87.3 MiB | `native/win/x64` |
-| [codex-app-server-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-x86_64-unknown-linux-musl.tar.gz) | 109.2 MiB | `native/linux/x64/musl` |
-| [codex-app-server-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-package-x86_64-unknown-linux-musl.tar.zst) | 78.8 MiB | `native/linux/x64/musl` |
-| [codex-app-server-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-apple-darwin.tar.gz) | 76.4 MiB | `native/darwin/x64` |
-| [codex-app-server-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-apple-darwin.zst) | 54.0 MiB | `native/darwin/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-pc-windows-msvc.exe) | 245.2 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz) | 81.3 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-pc-windows-msvc.exe.zip) | 78.6 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-pc-windows-msvc.exe.zst) | 59.3 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [codex-app-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-unknown-linux-musl.tar.gz) | 81.6 MiB | `native/linux/x64/musl` |
-| [codex-app-server-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-app-server-x86_64-unknown-linux-musl.zst) | 57.7 MiB | `native/linux/x64/musl` |
-| [codex-code-mode-host-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-apple-darwin.tar.gz) | 21.6 MiB | `native/darwin/arm64` |
-| [codex-code-mode-host-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-apple-darwin.zst) | 16.1 MiB | `native/darwin/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-pc-windows-msvc.exe) | 64.5 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz) | 25.4 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip) | 24.6 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst) | 19.5 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz) | 23.7 MiB | `native/linux/arm64/musl` |
-| [codex-code-mode-host-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-aarch64-unknown-linux-musl.zst) | 18.1 MiB | `native/linux/arm64/musl` |
-| [codex-code-mode-host-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-apple-darwin.tar.gz) | 22.7 MiB | `native/darwin/x64` |
-| [codex-code-mode-host-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-apple-darwin.zst) | 16.9 MiB | `native/darwin/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-pc-windows-msvc.exe) | 69.0 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz) | 26.6 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip) | 25.9 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst) | 20.6 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz) | 25.0 MiB | `native/linux/x64/musl` |
-| [codex-code-mode-host-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-code-mode-host-x86_64-unknown-linux-musl.zst) | 18.9 MiB | `native/linux/x64/musl` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-aarch64-pc-windows-msvc.exe) | 6.9 MiB | `native/win/arm64` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz) | 2.6 MiB | `native/win/arm64` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-aarch64-pc-windows-msvc.exe.zip) | 2.5 MiB | `native/win/arm64` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-aarch64-pc-windows-msvc.exe.zst) | 2.0 MiB | `native/win/arm64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-x86_64-pc-windows-msvc.exe) | 7.7 MiB | `native/win/x64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz) | 2.8 MiB | `native/win/x64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-x86_64-pc-windows-msvc.exe.zip) | 2.7 MiB | `native/win/x64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-command-runner-x86_64-pc-windows-msvc.exe.zst) | 2.2 MiB | `native/win/x64` |
-| [codex-package-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-apple-darwin.tar.gz) | 124.9 MiB | `native/darwin/arm64` |
-| [codex-package-aarch64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-apple-darwin.tar.zst) | 90.6 MiB | `native/darwin/arm64` |
-| [codex-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-pc-windows-msvc.tar.gz) | 138.4 MiB | `native/win/arm64` |
-| [codex-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-pc-windows-msvc.tar.zst) | 103.4 MiB | `native/win/arm64` |
-| [codex-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-unknown-linux-musl.tar.gz) | 134.0 MiB | `native/linux/arm64/musl` |
-| [codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [codex-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-unknown-linux-musl.tar.zst) | 98.2 MiB | `native/linux/arm64/musl` |
-| [codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [codex-package-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-apple-darwin.tar.gz) | 133.0 MiB | `native/darwin/x64` |
-| [codex-package-x86_64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-apple-darwin.tar.zst) | 96.8 MiB | `native/darwin/x64` |
-| [codex-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-pc-windows-msvc.tar.gz) | 149.9 MiB | `native/win/x64` |
-| [codex-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-pc-windows-msvc.tar.zst) | 112.1 MiB | `native/win/x64` |
-| [codex-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-unknown-linux-musl.tar.gz) | 143.0 MiB | `native/linux/x64/musl` |
-| [codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [codex-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-unknown-linux-musl.tar.zst) | 104.0 MiB | `native/linux/x64/musl` |
-| [codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [codex-package_SHA256SUMS](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-package_SHA256SUMS) | 2.1 KiB | `other` |
-| [codex-responses-api-proxy-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
-| [codex-responses-api-proxy-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-apple-darwin.zst) | 1.9 MiB | `native/darwin/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe) | 5.2 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz) | 2.3 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip) | 2.2 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst) | 1.9 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
-| [codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz) | 4.9 MiB | `native/linux/arm64/musl` |
-| [codex-responses-api-proxy-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-aarch64-unknown-linux-musl.zst) | 4.2 MiB | `native/linux/arm64/musl` |
-| [codex-responses-api-proxy-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
-| [codex-responses-api-proxy-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-apple-darwin.zst) | 2.0 MiB | `native/darwin/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe) | 5.8 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz) | 2.4 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip) | 2.4 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst) | 2.0 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz) | 4.9 MiB | `native/linux/x64/musl` |
-| [codex-responses-api-proxy-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-responses-api-proxy-x86_64-unknown-linux-musl.zst) | 3.8 MiB | `native/linux/x64/musl` |
-| [codex-symbols-aarch64-apple-darwin-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-aarch64-apple-darwin-app-server.tar.gz) | 250.2 MiB | `native/darwin/arm64` |
-| [codex-symbols-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-aarch64-apple-darwin.tar.gz) | 327.3 MiB | `native/darwin/arm64` |
-| [codex-symbols-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-aarch64-pc-windows-msvc.tar.gz) | 538.8 MiB | `native/win/arm64` |
-| [codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz) | 197.1 MiB | `native/linux/arm64/musl` |
-| [codex-symbols-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-aarch64-unknown-linux-musl.tar.gz) | 256.1 MiB | `native/linux/arm64/musl` |
-| [codex-symbols-x86_64-apple-darwin-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-x86_64-apple-darwin-app-server.tar.gz) | 255.3 MiB | `native/darwin/x64` |
-| [codex-symbols-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-x86_64-apple-darwin.tar.gz) | 333.2 MiB | `native/darwin/x64` |
-| [codex-symbols-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-x86_64-pc-windows-msvc.tar.gz) | 552.5 MiB | `native/win/x64` |
-| [codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz) | 189.9 MiB | `native/linux/x64/musl` |
-| [codex-symbols-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-symbols-x86_64-unknown-linux-musl.tar.gz) | 246.8 MiB | `native/linux/x64/musl` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe) | 43.7 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz) | 15.3 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip) | 14.9 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst) | 11.1 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe) | 52.4 MiB | `native/win/x64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz) | 16.8 MiB | `native/win/x64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip) | 16.4 MiB | `native/win/x64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst) | 12.2 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe) | 13.2 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz) | 5.2 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip) | 5.0 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst) | 3.9 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe) | 14.8 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz) | 5.5 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip) | 5.4 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst) | 4.2 MiB | `native/win/x64` |
-| [codex-x86_64-apple-darwin.dmg](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-apple-darwin.dmg) | 175.4 MiB | `native/darwin/x64` |
-| [codex-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-apple-darwin.tar.gz) | 100.2 MiB | `native/darwin/x64` |
-| [codex-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-apple-darwin.zst) | 71.8 MiB | `native/darwin/x64` |
-| [codex-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-pc-windows-msvc.exe) | 321.4 MiB | `native/win/x64` |
-| [codex-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-pc-windows-msvc.exe.tar.gz) | 106.3 MiB | `native/win/x64` |
-| [codex-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-pc-windows-msvc.exe.zip) | 153.7 MiB | `native/win/x64` |
-| [codex-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-pc-windows-msvc.exe.zst) | 78.1 MiB | `native/win/x64` |
-| [codex-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
-| [codex-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-unknown-linux-musl.tar.gz) | 106.2 MiB | `native/linux/x64/musl` |
-| [codex-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/codex-x86_64-unknown-linux-musl.zst) | 75.9 MiB | `native/linux/x64/musl` |
-| [config-schema.json](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/config-schema.json) | 216.6 KiB | `other` |
-| [install.ps1](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/install.ps1) | 43.4 KiB | `other` |
-| [install.sh](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/install.sh) | 32.6 KiB | `other` |
-| [open-interpreter-package-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-aarch64-apple-darwin.tar.gz) | 211.1 MiB | `native/darwin/arm64` |
-| [open-interpreter-package-aarch64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-aarch64-apple-darwin.tar.zst) | 151.7 MiB | `native/darwin/arm64` |
-| [open-interpreter-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-aarch64-pc-windows-msvc.tar.gz) | 228.8 MiB | `native/win/arm64` |
-| [open-interpreter-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst) | 170.3 MiB | `native/win/arm64` |
-| [open-interpreter-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-aarch64-unknown-linux-musl.tar.gz) | 223.6 MiB | `native/linux/arm64/musl` |
-| [open-interpreter-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-aarch64-unknown-linux-musl.tar.zst) | 162.4 MiB | `native/linux/arm64/musl` |
-| [open-interpreter-package-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-x86_64-apple-darwin.tar.gz) | 225.1 MiB | `native/darwin/x64` |
-| [open-interpreter-package-x86_64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-x86_64-apple-darwin.tar.zst) | 162.3 MiB | `native/darwin/x64` |
-| [open-interpreter-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-x86_64-pc-windows-msvc.tar.gz) | 248.5 MiB | `native/win/x64` |
-| [open-interpreter-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst) | 184.3 MiB | `native/win/x64` |
-| [open-interpreter-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz) | 239.7 MiB | `native/linux/x64/musl` |
-| [open-interpreter-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/open-interpreter-package-x86_64-unknown-linux-musl.tar.zst) | 172.8 MiB | `native/linux/x64/musl` |
-| [openai_codex_cli_bin-0.0.59-py3-none-macosx_10_9_x86_64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/openai_codex_cli_bin-0.0.59-py3-none-macosx_10_9_x86_64.whl) | 124.9 MiB | `native/darwin/x64` |
-| [openai_codex_cli_bin-0.0.59-py3-none-macosx_11_0_arm64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/openai_codex_cli_bin-0.0.59-py3-none-macosx_11_0_arm64.whl) | 117.3 MiB | `native/darwin/arm64` |
-| [openai_codex_cli_bin-0.0.59-py3-none-manylinux_2_17_aarch64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/openai_codex_cli_bin-0.0.59-py3-none-manylinux_2_17_aarch64.whl) | 124.8 MiB | `native/linux/arm64` |
-| [openai_codex_cli_bin-0.0.59-py3-none-manylinux_2_17_x86_64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/openai_codex_cli_bin-0.0.59-py3-none-manylinux_2_17_x86_64.whl) | 133.7 MiB | `native/linux/x64` |
-| [openai_codex_cli_bin-0.0.59-py3-none-win_amd64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/openai_codex_cli_bin-0.0.59-py3-none-win_amd64.whl) | 142.5 MiB | `other` |
-| [openai_codex_cli_bin-0.0.59-py3-none-win_arm64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.59/openai_codex_cli_bin-0.0.59-py3-none-win_arm64.whl) | 131.7 MiB | `other` |
+| [bwrap-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/bwrap-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [bwrap-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/bwrap-aarch64-unknown-linux-musl.tar.gz) | 249.0 KiB | `native/linux/arm64/musl` |
+| [bwrap-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/bwrap-aarch64-unknown-linux-musl.zst) | 225.8 KiB | `native/linux/arm64/musl` |
+| [bwrap-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/bwrap-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [bwrap-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/bwrap-x86_64-unknown-linux-musl.tar.gz) | 255.5 KiB | `native/linux/x64/musl` |
+| [bwrap-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/bwrap-x86_64-unknown-linux-musl.zst) | 232.2 KiB | `native/linux/x64/musl` |
+| [codex-aarch64-apple-darwin.dmg](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-apple-darwin.dmg) | 164.3 MiB | `native/darwin/arm64` |
+| [codex-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-apple-darwin.tar.gz) | 94.2 MiB | `native/darwin/arm64` |
+| [codex-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-apple-darwin.zst) | 67.5 MiB | `native/darwin/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-pc-windows-msvc.exe) | 272.8 MiB | `native/win/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-pc-windows-msvc.exe.tar.gz) | 97.8 MiB | `native/win/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-pc-windows-msvc.exe.zip) | 143.0 MiB | `native/win/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-pc-windows-msvc.exe.zst) | 72.4 MiB | `native/win/arm64` |
+| [codex-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [codex-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-unknown-linux-musl.tar.gz) | 99.3 MiB | `native/linux/arm64/musl` |
+| [codex-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-aarch64-unknown-linux-musl.zst) | 71.5 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-apple-darwin.tar.gz) | 72.1 MiB | `native/darwin/arm64` |
+| [codex-app-server-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-apple-darwin.zst) | 50.9 MiB | `native/darwin/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-pc-windows-msvc.exe) | 208.3 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz) | 74.9 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-pc-windows-msvc.exe.zip) | 73.0 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-pc-windows-msvc.exe.zst) | 54.9 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [codex-app-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-unknown-linux-musl.tar.gz) | 76.6 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-aarch64-unknown-linux-musl.zst) | 54.7 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-package-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-aarch64-apple-darwin.tar.gz) | 95.6 MiB | `native/darwin/arm64` |
+| [codex-app-server-package-aarch64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-aarch64-apple-darwin.tar.zst) | 68.5 MiB | `native/darwin/arm64` |
+| [codex-app-server-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-aarch64-pc-windows-msvc.tar.gz) | 109.4 MiB | `native/win/arm64` |
+| [codex-app-server-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-aarch64-pc-windows-msvc.tar.zst) | 81.1 MiB | `native/win/arm64` |
+| [codex-app-server-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-aarch64-unknown-linux-musl.tar.gz) | 102.5 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-aarch64-unknown-linux-musl.tar.zst) | 74.7 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-package-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-x86_64-apple-darwin.tar.gz) | 101.6 MiB | `native/darwin/x64` |
+| [codex-app-server-package-x86_64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-x86_64-apple-darwin.tar.zst) | 73.0 MiB | `native/darwin/x64` |
+| [codex-app-server-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-x86_64-pc-windows-msvc.tar.gz) | 118.1 MiB | `native/win/x64` |
+| [codex-app-server-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-x86_64-pc-windows-msvc.tar.zst) | 87.8 MiB | `native/win/x64` |
+| [codex-app-server-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-x86_64-unknown-linux-musl.tar.gz) | 109.8 MiB | `native/linux/x64/musl` |
+| [codex-app-server-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-package-x86_64-unknown-linux-musl.tar.zst) | 78.9 MiB | `native/linux/x64/musl` |
+| [codex-app-server-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-apple-darwin.tar.gz) | 76.8 MiB | `native/darwin/x64` |
+| [codex-app-server-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-apple-darwin.zst) | 54.3 MiB | `native/darwin/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-pc-windows-msvc.exe) | 247.0 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz) | 81.8 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-pc-windows-msvc.exe.zip) | 79.2 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-pc-windows-msvc.exe.zst) | 59.8 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [codex-app-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-unknown-linux-musl.tar.gz) | 82.2 MiB | `native/linux/x64/musl` |
+| [codex-app-server-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-app-server-x86_64-unknown-linux-musl.zst) | 57.8 MiB | `native/linux/x64/musl` |
+| [codex-code-mode-host-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-apple-darwin.tar.gz) | 21.6 MiB | `native/darwin/arm64` |
+| [codex-code-mode-host-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-apple-darwin.zst) | 16.1 MiB | `native/darwin/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-pc-windows-msvc.exe) | 64.5 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz) | 25.4 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip) | 24.6 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst) | 19.5 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz) | 23.7 MiB | `native/linux/arm64/musl` |
+| [codex-code-mode-host-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-aarch64-unknown-linux-musl.zst) | 18.1 MiB | `native/linux/arm64/musl` |
+| [codex-code-mode-host-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-apple-darwin.tar.gz) | 22.7 MiB | `native/darwin/x64` |
+| [codex-code-mode-host-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-apple-darwin.zst) | 16.9 MiB | `native/darwin/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-pc-windows-msvc.exe) | 69.0 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz) | 26.6 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip) | 25.9 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst) | 20.6 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz) | 25.0 MiB | `native/linux/x64/musl` |
+| [codex-code-mode-host-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-code-mode-host-x86_64-unknown-linux-musl.zst) | 18.9 MiB | `native/linux/x64/musl` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-aarch64-pc-windows-msvc.exe) | 6.9 MiB | `native/win/arm64` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz) | 2.6 MiB | `native/win/arm64` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-aarch64-pc-windows-msvc.exe.zip) | 2.5 MiB | `native/win/arm64` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-aarch64-pc-windows-msvc.exe.zst) | 2.0 MiB | `native/win/arm64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-x86_64-pc-windows-msvc.exe) | 7.7 MiB | `native/win/x64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz) | 2.8 MiB | `native/win/x64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-x86_64-pc-windows-msvc.exe.zip) | 2.7 MiB | `native/win/x64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-command-runner-x86_64-pc-windows-msvc.exe.zst) | 2.2 MiB | `native/win/x64` |
+| [codex-package-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-apple-darwin.tar.gz) | 125.4 MiB | `native/darwin/arm64` |
+| [codex-package-aarch64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-apple-darwin.tar.zst) | 91.1 MiB | `native/darwin/arm64` |
+| [codex-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-pc-windows-msvc.tar.gz) | 139.0 MiB | `native/win/arm64` |
+| [codex-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-pc-windows-msvc.tar.zst) | 103.8 MiB | `native/win/arm64` |
+| [codex-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-unknown-linux-musl.tar.gz) | 134.4 MiB | `native/linux/arm64/musl` |
+| [codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [codex-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-unknown-linux-musl.tar.zst) | 98.5 MiB | `native/linux/arm64/musl` |
+| [codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [codex-package-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-apple-darwin.tar.gz) | 133.5 MiB | `native/darwin/x64` |
+| [codex-package-x86_64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-apple-darwin.tar.zst) | 97.1 MiB | `native/darwin/x64` |
+| [codex-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-pc-windows-msvc.tar.gz) | 150.7 MiB | `native/win/x64` |
+| [codex-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-pc-windows-msvc.tar.zst) | 112.7 MiB | `native/win/x64` |
+| [codex-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-unknown-linux-musl.tar.gz) | 143.4 MiB | `native/linux/x64/musl` |
+| [codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [codex-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-unknown-linux-musl.tar.zst) | 104.3 MiB | `native/linux/x64/musl` |
+| [codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [codex-package_SHA256SUMS](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-package_SHA256SUMS) | 2.1 KiB | `other` |
+| [codex-responses-api-proxy-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
+| [codex-responses-api-proxy-aarch64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-apple-darwin.zst) | 1.9 MiB | `native/darwin/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe) | 5.2 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz) | 2.3 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip) | 2.2 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst) | 1.9 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/arm64/musl` |
+| [codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz) | 4.9 MiB | `native/linux/arm64/musl` |
+| [codex-responses-api-proxy-aarch64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-aarch64-unknown-linux-musl.zst) | 4.2 MiB | `native/linux/arm64/musl` |
+| [codex-responses-api-proxy-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
+| [codex-responses-api-proxy-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-apple-darwin.zst) | 2.0 MiB | `native/darwin/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe) | 5.8 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz) | 2.4 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip) | 2.4 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst) | 2.0 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz) | 4.9 MiB | `native/linux/x64/musl` |
+| [codex-responses-api-proxy-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-responses-api-proxy-x86_64-unknown-linux-musl.zst) | 3.8 MiB | `native/linux/x64/musl` |
+| [codex-symbols-aarch64-apple-darwin-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-aarch64-apple-darwin-app-server.tar.gz) | 251.7 MiB | `native/darwin/arm64` |
+| [codex-symbols-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-aarch64-apple-darwin.tar.gz) | 328.6 MiB | `native/darwin/arm64` |
+| [codex-symbols-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-aarch64-pc-windows-msvc.tar.gz) | 541.0 MiB | `native/win/arm64` |
+| [codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz) | 198.2 MiB | `native/linux/arm64/musl` |
+| [codex-symbols-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-aarch64-unknown-linux-musl.tar.gz) | 257.0 MiB | `native/linux/arm64/musl` |
+| [codex-symbols-x86_64-apple-darwin-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-x86_64-apple-darwin-app-server.tar.gz) | 256.3 MiB | `native/darwin/x64` |
+| [codex-symbols-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-x86_64-apple-darwin.tar.gz) | 334.5 MiB | `native/darwin/x64` |
+| [codex-symbols-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-x86_64-pc-windows-msvc.tar.gz) | 554.5 MiB | `native/win/x64` |
+| [codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz) | 190.9 MiB | `native/linux/x64/musl` |
+| [codex-symbols-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-symbols-x86_64-unknown-linux-musl.tar.gz) | 247.7 MiB | `native/linux/x64/musl` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe) | 43.7 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz) | 15.3 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip) | 14.9 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst) | 11.1 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe) | 52.3 MiB | `native/win/x64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz) | 16.8 MiB | `native/win/x64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip) | 16.4 MiB | `native/win/x64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst) | 12.2 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe) | 13.2 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz) | 5.2 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip) | 5.0 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst) | 3.9 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe) | 14.8 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz) | 5.5 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip) | 5.4 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst) | 4.2 MiB | `native/win/x64` |
+| [codex-x86_64-apple-darwin.dmg](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-apple-darwin.dmg) | 176.0 MiB | `native/darwin/x64` |
+| [codex-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-apple-darwin.tar.gz) | 100.7 MiB | `native/darwin/x64` |
+| [codex-x86_64-apple-darwin.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-apple-darwin.zst) | 72.1 MiB | `native/darwin/x64` |
+| [codex-x86_64-pc-windows-msvc.exe](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-pc-windows-msvc.exe) | 324.1 MiB | `native/win/x64` |
+| [codex-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-pc-windows-msvc.exe.tar.gz) | 107.0 MiB | `native/win/x64` |
+| [codex-x86_64-pc-windows-msvc.exe.zip](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-pc-windows-msvc.exe.zip) | 154.4 MiB | `native/win/x64` |
+| [codex-x86_64-pc-windows-msvc.exe.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-pc-windows-msvc.exe.zst) | 78.6 MiB | `native/win/x64` |
+| [codex-x86_64-unknown-linux-musl.sigstore](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-unknown-linux-musl.sigstore) | 8.8 KiB | `native/linux/x64/musl` |
+| [codex-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-unknown-linux-musl.tar.gz) | 106.6 MiB | `native/linux/x64/musl` |
+| [codex-x86_64-unknown-linux-musl.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/codex-x86_64-unknown-linux-musl.zst) | 76.1 MiB | `native/linux/x64/musl` |
+| [config-schema.json](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/config-schema.json) | 216.6 KiB | `other` |
+| [install.ps1](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/install.ps1) | 43.4 KiB | `other` |
+| [install.sh](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/install.sh) | 32.6 KiB | `other` |
+| [open-interpreter-package-aarch64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-aarch64-apple-darwin.tar.gz) | 212.0 MiB | `native/darwin/arm64` |
+| [open-interpreter-package-aarch64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-aarch64-apple-darwin.tar.zst) | 152.6 MiB | `native/darwin/arm64` |
+| [open-interpreter-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-aarch64-pc-windows-msvc.tar.gz) | 229.8 MiB | `native/win/arm64` |
+| [open-interpreter-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst) | 171.1 MiB | `native/win/arm64` |
+| [open-interpreter-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-aarch64-unknown-linux-musl.tar.gz) | 224.4 MiB | `native/linux/arm64/musl` |
+| [open-interpreter-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-aarch64-unknown-linux-musl.tar.zst) | 163.0 MiB | `native/linux/arm64/musl` |
+| [open-interpreter-package-x86_64-apple-darwin.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-x86_64-apple-darwin.tar.gz) | 226.1 MiB | `native/darwin/x64` |
+| [open-interpreter-package-x86_64-apple-darwin.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-x86_64-apple-darwin.tar.zst) | 162.9 MiB | `native/darwin/x64` |
+| [open-interpreter-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-x86_64-pc-windows-msvc.tar.gz) | 249.9 MiB | `native/win/x64` |
+| [open-interpreter-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst) | 185.3 MiB | `native/win/x64` |
+| [open-interpreter-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz) | 240.6 MiB | `native/linux/x64/musl` |
+| [open-interpreter-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/open-interpreter-package-x86_64-unknown-linux-musl.tar.zst) | 173.2 MiB | `native/linux/x64/musl` |
+| [openai_codex_cli_bin-0.0.60-py3-none-macosx_10_9_x86_64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/openai_codex_cli_bin-0.0.60-py3-none-macosx_10_9_x86_64.whl) | 125.5 MiB | `native/darwin/x64` |
+| [openai_codex_cli_bin-0.0.60-py3-none-macosx_11_0_arm64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/openai_codex_cli_bin-0.0.60-py3-none-macosx_11_0_arm64.whl) | 117.7 MiB | `native/darwin/arm64` |
+| [openai_codex_cli_bin-0.0.60-py3-none-manylinux_2_17_aarch64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/openai_codex_cli_bin-0.0.60-py3-none-manylinux_2_17_aarch64.whl) | 125.2 MiB | `native/linux/arm64` |
+| [openai_codex_cli_bin-0.0.60-py3-none-manylinux_2_17_x86_64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/openai_codex_cli_bin-0.0.60-py3-none-manylinux_2_17_x86_64.whl) | 134.2 MiB | `native/linux/x64` |
+| [openai_codex_cli_bin-0.0.60-py3-none-win_amd64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/openai_codex_cli_bin-0.0.60-py3-none-win_amd64.whl) | 143.2 MiB | `other` |
+| [openai_codex_cli_bin-0.0.60-py3-none-win_arm64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.60/openai_codex_cli_bin-0.0.60-py3-none-win_arm64.whl) | 132.2 MiB | `other` |
 
 ## 发行版状态
 
@@ -241,4 +241,4 @@ open-interpreter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:46:38Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T07:15:21Z._
