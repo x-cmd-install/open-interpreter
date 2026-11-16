@@ -1,7 +1,7 @@
 - repo: chocolatey
   binname: open-interpreter
   visiblename: Open Interpreter
-  version: 0.0.58
+  version: 0.0.61
   origversion: null
   status: outdated
   summary: A coding agent for open models like Kimi K3
