@@ -33,27 +33,27 @@ Total: **2,114,995** lines of code across **6335** files in the top 5 languages.
 ## Release
 
 - **Latest**: `rust-v0.0.61` (2026-11-11)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 165
 
 ## Popularity
 
-- **Stars**: 68,957 · **Forks**: 5,944 · **Open issues**: 1,131 · **Contributors**: 627
+- **Stars**: 68,962 · **Forks**: 5,946 · **Open issues**: 1,131 · **Contributors**: 627
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 484 · **Open PRs**: 13 · **Closed issues**: 1107 · **Open issues**: 24 · **Commits**: 10801
+- **Releases**: 78 · **Merged PRs**: 485 · **Open PRs**: 12 · **Closed issues**: 1107 · **Open issues**: 24 · **Commits**: 10803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 30 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 30 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 30 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -225,14 +225,6 @@ Total: **2,114,995** lines of code across **6335** files in the top 5 languages.
 | [openai_codex_cli_bin-0.0.61-py3-none-win_amd64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-win_amd64.whl) | 143.2 MiB | `other` |
 | [openai_codex_cli_bin-0.0.61-py3-none-win_arm64.whl](https://github.com/KillianLucas/open-interpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-win_arm64.whl) | 132.2 MiB | `other` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/open-interpreter). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.0.40` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for open-interpreter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `open-interpreter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -242,4 +234,4 @@ Install metadata for open-interpreter lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:38:42Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:09:36Z._
