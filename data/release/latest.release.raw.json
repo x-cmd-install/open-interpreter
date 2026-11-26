@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 254947,
       "digest": "sha256:911290b433cadf6c536ce6c1f5d0279280b9a9c214d0dd34fe825cee4cfd2f2b",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-11-11T04:36:23Z",
       "updated_at": "2026-11-11T04:36:24Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/bwrap-aarch64-unknown-linux-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 231240,
       "digest": "sha256:d5f55e69a81d07f8140bc4a791f9e53c340fb0550554a2cf55e642cb32d32397",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-11-11T04:36:22Z",
       "updated_at": "2026-11-11T04:36:23Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/bwrap-aarch64-unknown-linux-musl.zst"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 261612,
       "digest": "sha256:524941bde572b769f997bd1a35fc2f3674d17f19f4c3ef908c293e7ae7367f01",
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2026-11-11T04:31:38Z",
       "updated_at": "2026-11-11T04:31:38Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/bwrap-x86_64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 237743,
       "digest": "sha256:5318de3ae5800d2a057b3589b48cd70b278ce6e2b84c3440125e14989699afd4",
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2026-11-11T04:31:37Z",
       "updated_at": "2026-11-11T04:31:37Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/bwrap-x86_64-unknown-linux-musl.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 172314452,
       "digest": "sha256:9bda1bb92f8a506b02b1850d9bfce3b2d1ac360c99336cbf5c0a68aa19346fd6",
-      "download_count": 56,
+      "download_count": 62,
       "created_at": "2026-11-11T04:39:17Z",
       "updated_at": "2026-11-11T04:39:21Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-aarch64-apple-darwin.dmg"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 98853072,
       "digest": "sha256:2def67f2d42c9b4ec098e9f41b373bbbd9db4f0bcf6c63987a6e157b3d38309e",
-      "download_count": 72,
+      "download_count": 73,
       "created_at": "2026-11-11T04:39:13Z",
       "updated_at": "2026-11-11T04:39:16Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-aarch64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 70778880,
       "digest": "sha256:a321a876a00db3f4d00d38c37585f8564c6aa98f9900026793bc5c138119d6fb",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-11-11T04:39:10Z",
       "updated_at": "2026-11-11T04:39:12Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-aarch64-apple-darwin.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 285996032,
       "digest": "sha256:41d030869a52d534ce5fa76d5be181f0d1c3a1a911199d0b83be18cf5c4dd806",
-      "download_count": 213,
+      "download_count": 227,
       "created_at": "2026-11-11T04:38:07Z",
       "updated_at": "2026-11-11T04:38:14Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-aarch64-pc-windows-msvc.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 102512809,
       "digest": "sha256:4a0dd8a4f415846f4b4f48278ab0db26cc4646e7c33149b72054f257b344d1f0",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-11-11T04:38:03Z",
       "updated_at": "2026-11-11T04:38:06Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 75992845,
       "digest": "sha256:14b2697bd9e055469af7664cccfeb1a4604ad49176609fd4f9afa7ff45e90693",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-11-11T04:37:53Z",
       "updated_at": "2026-11-11T04:37:56Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-aarch64-pc-windows-msvc.exe.zst"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 218352640,
       "digest": "sha256:0e1e5579b09df22a8495e2d8ce79ef6101f801286e86dbff9983a1a925e6a9a4",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-11-11T04:37:47Z",
       "updated_at": "2026-11-11T04:37:53Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-aarch64-pc-windows-msvc.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 78542340,
       "digest": "sha256:b7254ce103205bc653d2ed84e608edfc1bc0dedefb040f51c3ccd0a56f8dfaaa",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-11-11T04:37:42Z",
       "updated_at": "2026-11-11T04:37:47Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 76486272,
       "digest": "sha256:987acd91ce9af5c768803774cf641026d1006e518df0e8c713f948fd8b0516ab",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-11-11T04:37:39Z",
       "updated_at": "2026-11-11T04:37:42Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-aarch64-pc-windows-msvc.exe.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 71810360,
       "digest": "sha256:3060a5bf2fd2bf348fb0441c120c4ae3fd1f8b4e9ad36da02b6ddc72c4f1ed9e",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-11-11T04:38:31Z",
       "updated_at": "2026-11-11T04:38:33Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-package-aarch64-apple-darwin.tar.zst"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 78295882,
       "digest": "sha256:10cc9216c353d7fec6acc3bb1dcd340416f59eceef21ad4b25ccb3efaa628921",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-11-11T04:35:33Z",
       "updated_at": "2026-11-11T04:35:35Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-package-aarch64-unknown-linux-musl.tar.zst"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 258885120,
       "digest": "sha256:d39884ca0674f33e60e44224958db4e026a55a8bb2b6680e778f3a3400ad57a0",
-      "download_count": 49,
+      "download_count": 52,
       "created_at": "2026-11-11T04:33:22Z",
       "updated_at": "2026-11-11T04:33:28Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-x86_64-pc-windows-msvc.exe"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 85747092,
       "digest": "sha256:5a9bf304acf0006eaee5075fa05c4f90cf8c1a71fc08526074e59b48780f8369",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:33:19Z",
       "updated_at": "2026-11-11T04:33:22Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 82956640,
       "digest": "sha256:a917b350072c7a343f6ca9d04bf07c5b1f32f70aea543dcd1898584402ff33b9",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-11-11T04:33:16Z",
       "updated_at": "2026-11-11T04:33:18Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-x86_64-pc-windows-msvc.exe.zip"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 62714476,
       "digest": "sha256:9871f9ab557b487b356176d384fd69f410313f1bfbd1180f2766735e55dcbe52",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-11T04:33:14Z",
       "updated_at": "2026-11-11T04:33:16Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-app-server-x86_64-pc-windows-msvc.exe.zst"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 16837506,
       "digest": "sha256:93436cd91dae17973a2b71b23831b2345ab75e66985b67b9ba2573aecaad0509",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:39:07Z",
       "updated_at": "2026-11-11T04:39:08Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-code-mode-host-aarch64-apple-darwin.zst"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 9033,
       "digest": "sha256:a4e45497057b22c85727e41262b28fb5a63d14d7adc7f312afc4160af7254b0a",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:36:15Z",
       "updated_at": "2026-11-11T04:36:15Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-code-mode-host-aarch64-unknown-linux-musl.sigstore"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 26220338,
       "digest": "sha256:093711245f5a545a71baf6954701d9797282538277e098e6acb8e3968e4776ad",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-11-11T04:31:35Z",
       "updated_at": "2026-11-11T04:31:36Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 19787022,
       "digest": "sha256:e12c18cfb3d84afd073f2e270ca62fe92d8c77e2d6028a9d918625135bf619c3",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:31:34Z",
       "updated_at": "2026-11-11T04:31:35Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-code-mode-host-x86_64-unknown-linux-musl.zst"
@@ -2443,7 +2443,7 @@
       "state": "uploaded",
       "size": 2622811,
       "digest": "sha256:fe51dcc0a3e94f6f8fa11df7c734973cc989ad2bcc106609559432244e159163",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-11T04:37:19Z",
       "updated_at": "2026-11-11T04:37:19Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-command-runner-aarch64-pc-windows-msvc.exe.zip"
@@ -2623,7 +2623,7 @@
       "state": "uploaded",
       "size": 2273488,
       "digest": "sha256:2a21dd70b84905d3c7c0770deb6834afc6217df47d25bc567cf2585074f2e807",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:33:03Z",
       "updated_at": "2026-11-11T04:33:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-command-runner-x86_64-pc-windows-msvc.exe.zst"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 131509198,
       "digest": "sha256:4e8c515e205e96b13d2d961f6f4ce6fd3515fbb3144653f4e690c16970cc1d37",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-11-11T04:39:03Z",
       "updated_at": "2026-11-11T04:39:07Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-package-aarch64-apple-darwin.tar.gz"
@@ -3019,7 +3019,7 @@
       "state": "uploaded",
       "size": 157929497,
       "digest": "sha256:94bf99a698f5bc3bb1f02452ec0e08ead7a12979e67d40688580da97ad1334da",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T04:32:59Z",
       "updated_at": "2026-11-11T04:33:03Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-package-x86_64-pc-windows-msvc.tar.gz"
@@ -3235,7 +3235,7 @@
       "state": "uploaded",
       "size": 2121,
       "digest": "sha256:e2fa8185aada1f7f6c1041e8f93e3f38eaca560eb9c9f924c65fdb675e48ccff",
-      "download_count": 7885,
+      "download_count": 8237,
       "created_at": "2026-11-11T04:30:30Z",
       "updated_at": "2026-11-11T04:30:31Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-package_SHA256SUMS"
@@ -3523,7 +3523,7 @@
       "state": "uploaded",
       "size": 5129464,
       "digest": "sha256:fae51049aa10adb315c332eb51457975029c925dd413e98d2e92028776ab61db",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-11T04:36:01Z",
       "updated_at": "2026-11-11T04:36:01Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz"
@@ -3811,7 +3811,7 @@
       "state": "uploaded",
       "size": 9013,
       "digest": "sha256:fa2ce5991718c826397186076d19866d1014aacfe0c7cef0cd92bf5059d94cc3",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:31:23Z",
       "updated_at": "2026-11-11T04:31:23Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore"
@@ -3847,7 +3847,7 @@
       "state": "uploaded",
       "size": 5089396,
       "digest": "sha256:10bb34b2d04c12f4beb29959558da1f2bc384b837139545677f988f933931d36",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:31:22Z",
       "updated_at": "2026-11-11T04:31:22Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz"
@@ -3883,7 +3883,7 @@
       "state": "uploaded",
       "size": 4016701,
       "digest": "sha256:ad9a78f4fd2a915ab4e45bcf1875ff1de126d74d8aeaeff1ca6b179e7b7d2326",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-11-11T04:31:21Z",
       "updated_at": "2026-11-11T04:31:22Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-responses-api-proxy-x86_64-unknown-linux-musl.zst"
@@ -4099,7 +4099,7 @@
       "state": "uploaded",
       "size": 268887047,
       "digest": "sha256:00ee7495a3d39576af205c3e3050fa4180a629b0dadaa2d7234a966985c296b3",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-11T04:33:46Z",
       "updated_at": "2026-11-11T04:33:52Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-symbols-x86_64-apple-darwin-app-server.tar.gz"
@@ -4135,7 +4135,7 @@
       "state": "uploaded",
       "size": 350931726,
       "digest": "sha256:2b6feca7e9ea3a636ec9f2d542e47648ef58d99e53397ba8b9e734060427e762",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-11T04:33:35Z",
       "updated_at": "2026-11-11T04:33:45Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-symbols-x86_64-apple-darwin.tar.gz"
@@ -4171,7 +4171,7 @@
       "state": "uploaded",
       "size": 581149860,
       "digest": "sha256:2b4bca6d9c409f529e0c2648b2a405c020260f1d1838c7702b41807d16749296",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-11T04:31:39Z",
       "updated_at": "2026-11-11T04:31:58Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-symbols-x86_64-pc-windows-msvc.tar.gz"
@@ -4207,7 +4207,7 @@
       "state": "uploaded",
       "size": 200253441,
       "digest": "sha256:59b8a4a5a0706ed92913ba725ecaddacd6eaf62d0502ba024cd5bc2b246a09b6",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-11T04:30:40Z",
       "updated_at": "2026-11-11T04:30:45Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz"
@@ -4243,7 +4243,7 @@
       "state": "uploaded",
       "size": 259763953,
       "digest": "sha256:86a66fa782ae262f8a19c6522b2981772b098423fe06c69d39169b1b26d3f419",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-11-11T04:30:31Z",
       "updated_at": "2026-11-11T04:30:39Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-symbols-x86_64-unknown-linux-musl.tar.gz"
@@ -4279,7 +4279,7 @@
       "state": "uploaded",
       "size": 45862912,
       "digest": "sha256:db708f98f90bad966b2adfd856c8123d1887e8a6a7ee79770cf907f4fbc6d6a4",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T04:37:05Z",
       "updated_at": "2026-11-11T04:37:07Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe"
@@ -4315,7 +4315,7 @@
       "state": "uploaded",
       "size": 16062288,
       "digest": "sha256:9e7970074772957ad1d68dc38f29782934dee3e0a85ded0581d5aa9a71eb4120",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-11T04:37:04Z",
       "updated_at": "2026-11-11T04:37:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -4351,7 +4351,7 @@
       "state": "uploaded",
       "size": 15656795,
       "digest": "sha256:6cd6270d65fe4134a51e15f8c34f81098db53a97eb7d2f9580d5aa3aa3e071c6",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T04:37:02Z",
       "updated_at": "2026-11-11T04:37:03Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip"
@@ -4387,7 +4387,7 @@
       "state": "uploaded",
       "size": 11681265,
       "digest": "sha256:c2fcc79fc4990a4bf4e17169c241da37315c00d962a5a2d70c3e9dff8f3d6cb9",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:37:01Z",
       "updated_at": "2026-11-11T04:37:02Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst"
@@ -4423,7 +4423,7 @@
       "state": "uploaded",
       "size": 54857216,
       "digest": "sha256:3a78c1706774f7000fbffcd570c78adad1850737844290517bf767c349672099",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-11T04:32:50Z",
       "updated_at": "2026-11-11T04:32:51Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe"
@@ -4459,7 +4459,7 @@
       "state": "uploaded",
       "size": 17644484,
       "digest": "sha256:1e6f5531f2c305998d886c6f2c56f01d93a047aa5cefdcee015a2391178fa01f",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-11-11T04:32:48Z",
       "updated_at": "2026-11-11T04:32:49Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -4495,7 +4495,7 @@
       "state": "uploaded",
       "size": 17144222,
       "digest": "sha256:22c5e46b3d77f996896ba396df9292993955016131d8d74277dfe97f1f116d9e",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-11-11T04:32:47Z",
       "updated_at": "2026-11-11T04:32:48Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip"
@@ -4531,7 +4531,7 @@
       "state": "uploaded",
       "size": 12771323,
       "digest": "sha256:95dcf771bd06fabde66ebee6a9748c816b5635991a9d0c44288f865bbfbca478",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-11T04:32:46Z",
       "updated_at": "2026-11-11T04:32:47Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst"
@@ -4567,7 +4567,7 @@
       "state": "uploaded",
       "size": 13826560,
       "digest": "sha256:42c467a8115061bed80228b55abac355e10225b0d523cfa2fc51f0b07a7ac43f",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-11T04:36:59Z",
       "updated_at": "2026-11-11T04:37:00Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe"
@@ -4603,7 +4603,7 @@
       "state": "uploaded",
       "size": 5420217,
       "digest": "sha256:1b6d9b95296453e683a5f5e2aed1b2d1eb64fe1d1a0ea2c9d5aada84bbd61dd2",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-11T04:36:59Z",
       "updated_at": "2026-11-11T04:36:59Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -4639,7 +4639,7 @@
       "state": "uploaded",
       "size": 5268972,
       "digest": "sha256:382c9b109e77aba16520d50b14f77a7ff3aff1b53af8865bd463d950e84c8d16",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T04:36:57Z",
       "updated_at": "2026-11-11T04:36:58Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip"
@@ -4675,7 +4675,7 @@
       "state": "uploaded",
       "size": 4141009,
       "digest": "sha256:f8ba5e2ff6c0e67199ce0da8fb6414a22d0893c31b4dc1c0832139edd24e72fe",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:36:56Z",
       "updated_at": "2026-11-11T04:36:57Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst"
@@ -4711,7 +4711,7 @@
       "state": "uploaded",
       "size": 15538688,
       "digest": "sha256:2a5ebdf6b318e65cb2c8a1b63a8fb0a2d5d8731748fef1cbdaa3852d91136217",
-      "download_count": 24,
+      "download_count": 27,
       "created_at": "2026-11-11T04:32:45Z",
       "updated_at": "2026-11-11T04:32:46Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe"
@@ -4747,7 +4747,7 @@
       "state": "uploaded",
       "size": 5818150,
       "digest": "sha256:05d9e3e3a7faeb6e7bdffffb3008ec8258ed9073a580322d3a41b381e29723d3",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:32:43Z",
       "updated_at": "2026-11-11T04:32:45Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -4783,7 +4783,7 @@
       "state": "uploaded",
       "size": 5640580,
       "digest": "sha256:d7ebdb0fc991875cddf664ea74bea53abab0348efc6feec531abc833cffbc552",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-11-11T04:32:42Z",
       "updated_at": "2026-11-11T04:32:43Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip"
@@ -4819,7 +4819,7 @@
       "state": "uploaded",
       "size": 4448037,
       "digest": "sha256:ac91168bc235f1b2d50e7a3fd7c94177a86d5c066d5ee9189295d9de10e403c1",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-11T04:32:42Z",
       "updated_at": "2026-11-11T04:32:42Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst"
@@ -4855,7 +4855,7 @@
       "state": "uploaded",
       "size": 184550726,
       "digest": "sha256:bca45a173160d46630fef792b8393e6357f61a5b0cfc81b784a513f35c31df70",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-11T04:34:29Z",
       "updated_at": "2026-11-11T04:34:36Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-apple-darwin.dmg"
@@ -4891,7 +4891,7 @@
       "state": "uploaded",
       "size": 105553722,
       "digest": "sha256:46839802355c824a91b13f30658b4fa39a3a49f4149e33e66dc243ae6b709ef7",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-11T04:34:25Z",
       "updated_at": "2026-11-11T04:34:28Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-apple-darwin.tar.gz"
@@ -4927,7 +4927,7 @@
       "state": "uploaded",
       "size": 75649725,
       "digest": "sha256:9f5e3640d629f957a6ba29e4b18dc339562188e61ac669c8ad63260c2885dfdb",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T04:34:21Z",
       "updated_at": "2026-11-11T04:34:24Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-apple-darwin.zst"
@@ -4963,7 +4963,7 @@
       "state": "uploaded",
       "size": 339756544,
       "digest": "sha256:6c4d98d3b75630b7967b47c461eb1e5f1a64bda0072bbed59abc3b2b5bd7b4d2",
-      "download_count": 248,
+      "download_count": 267,
       "created_at": "2026-11-11T04:32:25Z",
       "updated_at": "2026-11-11T04:32:41Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-pc-windows-msvc.exe"
@@ -4999,7 +4999,7 @@
       "state": "uploaded",
       "size": 112113974,
       "digest": "sha256:b7a3811cb72551d6fe25af89d5fabc0264adbd144fa015d6f29744f4696af3e3",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-11-11T04:32:20Z",
       "updated_at": "2026-11-11T04:32:25Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -5035,7 +5035,7 @@
       "state": "uploaded",
       "size": 161879480,
       "digest": "sha256:82843f752054e88f63a82e3a396270a81650c4e2a05d0d469658ee8141c4fa07",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-11-11T04:32:15Z",
       "updated_at": "2026-11-11T04:32:20Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-pc-windows-msvc.exe.zip"
@@ -5071,7 +5071,7 @@
       "state": "uploaded",
       "size": 82462457,
       "digest": "sha256:191e8c0e7b4babb25820e1e47dd90b8622cfa77fc927485dce29d1cf7189beed",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-11T04:32:12Z",
       "updated_at": "2026-11-11T04:32:15Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-pc-windows-msvc.exe.zst"
@@ -5107,7 +5107,7 @@
       "state": "uploaded",
       "size": 9021,
       "digest": "sha256:cd652c1b540834ca568b02f154469b4ea514078e5fc1e973a0308d7a6f4132cb",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:31:21Z",
       "updated_at": "2026-11-11T04:31:21Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-unknown-linux-musl.sigstore"
@@ -5143,7 +5143,7 @@
       "state": "uploaded",
       "size": 111827605,
       "digest": "sha256:2dfb4798255e87f7c4520240312c8a4bba96cea4369b1ef55bff1174fd730f7f",
-      "download_count": 123,
+      "download_count": 129,
       "created_at": "2026-11-11T04:31:16Z",
       "updated_at": "2026-11-11T04:31:20Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-unknown-linux-musl.tar.gz"
@@ -5179,7 +5179,7 @@
       "state": "uploaded",
       "size": 79651250,
       "digest": "sha256:2d595d219bb39710c6762dfff84bea45df7fe7d5652f42a1e59e4432dd3fc4ae",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:31:13Z",
       "updated_at": "2026-11-11T04:31:15Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/codex-x86_64-unknown-linux-musl.zst"
@@ -5215,7 +5215,7 @@
       "state": "uploaded",
       "size": 221771,
       "digest": "sha256:c04c2f1c0219e6fd62a057f958e65474e601349c80f9fc4b04aa515dd6829b21",
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2026-11-11T04:30:30Z",
       "updated_at": "2026-11-11T04:30:30Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/config-schema.json"
@@ -5251,7 +5251,7 @@
       "state": "uploaded",
       "size": 44432,
       "digest": "sha256:121a14add92ff5a08051b43bf907a75cbc7f7c2d71ba7ba6b5535dc017b1c2ad",
-      "download_count": 56,
+      "download_count": 61,
       "created_at": "2026-11-11T04:30:29Z",
       "updated_at": "2026-11-11T04:30:30Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/install.ps1"
@@ -5287,7 +5287,7 @@
       "state": "uploaded",
       "size": 33425,
       "digest": "sha256:d62b0b43dd15ec7676a6bfce4057aca8a86f038a93139c362b64fbe30f6b9f36",
-      "download_count": 36,
+      "download_count": 40,
       "created_at": "2026-11-11T04:30:29Z",
       "updated_at": "2026-11-11T04:30:29Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/install.sh"
@@ -5323,7 +5323,7 @@
       "state": "uploaded",
       "size": 222332228,
       "digest": "sha256:6eafc1946d337833ee37aa871cc6dacacdf8d8991ccd8801fac07024b3810a4a",
-      "download_count": 1667,
+      "download_count": 1723,
       "created_at": "2026-11-11T04:38:49Z",
       "updated_at": "2026-11-11T04:38:56Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-aarch64-apple-darwin.tar.gz"
@@ -5359,7 +5359,7 @@
       "state": "uploaded",
       "size": 160058294,
       "digest": "sha256:f07b21d620d035e3216847bd5967ee5de76fb9b95929163ff585631f4dc6ed32",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-11T04:38:45Z",
       "updated_at": "2026-11-11T04:38:49Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-aarch64-apple-darwin.tar.zst"
@@ -5395,7 +5395,7 @@
       "state": "uploaded",
       "size": 240910742,
       "digest": "sha256:e137bbd76353d772c3e24d00463dbb0a0541604e70b43b87f678df75828764d0",
-      "download_count": 99,
+      "download_count": 104,
       "created_at": "2026-11-11T04:36:47Z",
       "updated_at": "2026-11-11T04:36:56Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-aarch64-pc-windows-msvc.tar.gz"
@@ -5431,7 +5431,7 @@
       "state": "uploaded",
       "size": 179512528,
       "digest": "sha256:7d178d3662ebcf6d779f368dae17cf44a67cad258ac285b365b35d81ab61101b",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:36:41Z",
       "updated_at": "2026-11-11T04:36:46Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst"
@@ -5467,7 +5467,7 @@
       "state": "uploaded",
       "size": 235219202,
       "digest": "sha256:effe6105616594279727bac659dce8331d3a88ce0476acfa1dcfe2bc9fbf4331",
-      "download_count": 164,
+      "download_count": 176,
       "created_at": "2026-11-11T04:35:50Z",
       "updated_at": "2026-11-11T04:35:59Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-aarch64-unknown-linux-musl.tar.gz"
@@ -5503,7 +5503,7 @@
       "state": "uploaded",
       "size": 170959701,
       "digest": "sha256:0b4545f9d987b6714ad6ffbd46eaad24911c40f5141d1bd770eb7c3e109db450",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-11T04:35:45Z",
       "updated_at": "2026-11-11T04:35:50Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-aarch64-unknown-linux-musl.tar.zst"
@@ -5539,7 +5539,7 @@
       "state": "uploaded",
       "size": 237100557,
       "digest": "sha256:34489c881db604ac0f866705f0fe4267f0796d7299f4e7e43ed8ac9d56e4b50a",
-      "download_count": 145,
+      "download_count": 160,
       "created_at": "2026-11-11T04:34:15Z",
       "updated_at": "2026-11-11T04:34:21Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-x86_64-apple-darwin.tar.gz"
@@ -5575,7 +5575,7 @@
       "state": "uploaded",
       "size": 170845120,
       "digest": "sha256:0c270af8413c83c66c7f4e5d342a23fc091a0982f9c3f5a2e6ca3f32c5c58995",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T04:34:06Z",
       "updated_at": "2026-11-11T04:34:14Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-x86_64-apple-darwin.tar.zst"
@@ -5611,7 +5611,7 @@
       "state": "uploaded",
       "size": 261923334,
       "digest": "sha256:f33bf04d13fbbcba43ed21a212b6b3fe806abb59c39e771061159fa55bb82e87",
-      "download_count": 4478,
+      "download_count": 4743,
       "created_at": "2026-11-11T04:32:05Z",
       "updated_at": "2026-11-11T04:32:12Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-x86_64-pc-windows-msvc.tar.gz"
@@ -5647,7 +5647,7 @@
       "state": "uploaded",
       "size": 194333344,
       "digest": "sha256:246b729ec0cf08bc145c0d445ecd08f9746c4a4f7435bcde5c17b6be9b3c6a20",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-11-11T04:31:58Z",
       "updated_at": "2026-11-11T04:32:05Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst"
@@ -5683,7 +5683,7 @@
       "state": "uploaded",
       "size": 252343366,
       "digest": "sha256:861fa2022f4e8934e754240f05a2f3fd7ea59b4a44a4b5ea8c2bd4eddcb34be7",
-      "download_count": 2139,
+      "download_count": 2227,
       "created_at": "2026-11-11T04:31:05Z",
       "updated_at": "2026-11-11T04:31:12Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-x86_64-unknown-linux-musl.tar.gz"
@@ -5719,7 +5719,7 @@
       "state": "uploaded",
       "size": 181511845,
       "digest": "sha256:ba2d751c0cff65ca7b883f26b6f2ce93fbd53dd23975379e2f1a3fc803a73733",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-11-11T04:30:57Z",
       "updated_at": "2026-11-11T04:31:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package-x86_64-unknown-linux-musl.tar.zst"
@@ -5755,7 +5755,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:da82ab3d1fb4097316a4413035c72242f0e3581a57b006a142d1f5d4724ba49b",
-      "download_count": 94,
+      "download_count": 100,
       "created_at": "2026-11-11T04:30:28Z",
       "updated_at": "2026-11-11T04:30:28Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/open-interpreter-package_SHA256SUMS"
@@ -5791,7 +5791,7 @@
       "state": "uploaded",
       "size": 131546502,
       "digest": "sha256:1bf453111f6541a5313fda753032403d9b34b1d379481d37527b1ae0c82ae909",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-11T04:34:59Z",
       "updated_at": "2026-11-11T04:35:04Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-macosx_10_9_x86_64.whl"
@@ -5827,7 +5827,7 @@
       "state": "uploaded",
       "size": 123483753,
       "digest": "sha256:799b0debc96efe32703ac75fd8dec6c91abbe13244545a8a05081222a0c7097b",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-11T04:35:14Z",
       "updated_at": "2026-11-11T04:35:18Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-macosx_11_0_arm64.whl"
@@ -5863,7 +5863,7 @@
       "state": "uploaded",
       "size": 131257406,
       "digest": "sha256:d49f239e7fd6e02acc296e5d6c1d9e288c7a1778a1f80b39c3751b801b830d25",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:35:04Z",
       "updated_at": "2026-11-11T04:35:09Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-manylinux_2_17_aarch64.whl"
@@ -5899,7 +5899,7 @@
       "state": "uploaded",
       "size": 140702880,
       "digest": "sha256:0551f266cc10d2a7c09707ed3e8bcad0f21e9106b7f70d1ad1b2c7edd8fbdf02",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-11-11T04:34:49Z",
       "updated_at": "2026-11-11T04:34:54Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-manylinux_2_17_x86_64.whl"
@@ -5935,7 +5935,7 @@
       "state": "uploaded",
       "size": 150143815,
       "digest": "sha256:e8e8a8b88ac420d4b95d2406a2747d9dcc0c69401b5da0cc25093210af4a96f8",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-11T04:34:54Z",
       "updated_at": "2026-11-11T04:34:59Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-win_amd64.whl"
@@ -5971,7 +5971,7 @@
       "state": "uploaded",
       "size": 138587409,
       "digest": "sha256:e5c70f275f035413f9739c229b6b12a56cec7d4899f7830b69f24352e7446eca",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-11T04:35:09Z",
       "updated_at": "2026-11-11T04:35:14Z",
       "browser_download_url": "https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.61/openai_codex_cli_bin-0.0.61-py3-none-win_arm64.whl"
